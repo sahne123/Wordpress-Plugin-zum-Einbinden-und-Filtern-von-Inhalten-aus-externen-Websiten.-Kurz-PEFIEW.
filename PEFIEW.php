@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Wordpress Plugin zum Einbinden und Filtern von Inhalten aus externen Websiten. Kurz PEFIEW.
-Plugin URI: http://lalala.de
+Plugin URI: http://zeit-zu-handeln.net/?p=739
 Description: Ein Shortcode erlaubt es externe Websiten mittels regex zu parsen und anschließend auszugeben
-Version: 0.1
+Version: 0.9 BETA
 Author: @sahne123
 Author URI: http://zeit-zu-handeln.net
 */
