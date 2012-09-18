@@ -83,6 +83,6 @@ class pefiew {
 }
 
 $pefiew = new pefiew();
-add_shortcode('pefiew', array($pefiew, 'displayShortcode'));
+add_shortcode('PEFIEW', array($pefiew, 'displayShortcode'));
 
 ?>
